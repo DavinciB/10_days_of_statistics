@@ -1,2 +1,2 @@
 language = "python3"
-run = ""
+run = "echo open shell using ctrl+shift+s and then run the code there"
